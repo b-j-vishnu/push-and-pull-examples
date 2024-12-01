@@ -1,1 +1,2 @@
-const variable = "Hello World !"
+const variable = "Hello World !"  
+console.log(variable)
